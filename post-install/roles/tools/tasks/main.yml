@@ -1,0 +1,5 @@
+---
+# tasks file for tools
+
+- include_tasks: install.yml
+  when: method == "install"

@@ -1,0 +1,6 @@
+---
+# vars file for tools
+
+f2b_maxretry: 5
+f2b_findtime: 600
+f2b_bantime: 1200
