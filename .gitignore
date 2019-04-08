@@ -2,7 +2,7 @@
 /.terraform
 
 *.svg
-#*.tfvars
+*.tfvars
 *.tfstate
 *.backup
 
